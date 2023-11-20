@@ -1,0 +1,3 @@
+﻿  JocNumeroAleatori.cpp
+C:\Users\User\Desktop\Projectes\Cicle\Programació\JocNumeroAleatori\JocNumeroAleatori\JocNumeroAleatori.cpp(5,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  JocNumeroAleatori.vcxproj -> C:\Users\User\Desktop\Projectes\Cicle\Programació\JocNumeroAleatori\x64\Debug\JocNumeroAleatori.exe
